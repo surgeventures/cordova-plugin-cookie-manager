@@ -4,7 +4,7 @@ This plugins allows you to flush cookies in Android, moving them to persistent m
 
 ### Installation ###
 
-* From cli, run `cordova plugin add https://github.com/LeBodro/cordova-plugin-cookie-manager`.
+* From cli, run `cordova plugin add https://github.com/surgeventures/cordova-plugin-cookie-manager`.
 
 ### Using this plugin ###
 
